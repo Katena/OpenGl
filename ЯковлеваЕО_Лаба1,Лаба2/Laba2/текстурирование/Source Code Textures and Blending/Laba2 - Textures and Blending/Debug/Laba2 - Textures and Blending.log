@@ -1,0 +1,27 @@
+﻿Построение начато 01.06.2012 16:14:15.
+     1>Проект "F:\КГ\ЯковлеваЕО_Лаба1,Лаба2\Laba2\текстурирование\Source Code Textures and Blending\Laba2 - Textures and Blending\Laba2 - Textures and Blending.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "F:\КГ\ЯковлеваЕО_Лаба1,Лаба2\Laba2\текстурирование\Source Code Textures and Blending\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\Laba2 - Textures and Blending.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Laba2 - Textures and Blending.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Laba2 - Textures and Blending.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MainWindow.cpp OpenGLLab2.cpp "Laba2 - Textures and Blending.cpp" Scene.cpp ..\__OpenGL\GraphicObjects.cpp
+         GraphicObjects.cpp
+         Scene.cpp
+         Laba2 - Textures and Blending.cpp
+     1>f:\кг\яковлеваео_лаба1,лаба2\laba2\текстурирование\source code textures and blending\laba2 - textures and blending\resource.h(15): warning C4005: IDC_STATIC: изменение макроопределения
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\atlres.h(222): см. предыдущее определение "IDC_STATIC"
+         OpenGLLab2.cpp
+         MainWindow.cpp
+     1>f:\кг\яковлеваео_лаба1,лаба2\laba2\текстурирование\source code textures and blending\laba2 - textures and blending\resource.h(15): warning C4005: IDC_STATIC: изменение макроопределения
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\atlres.h(222): см. предыдущее определение "IDC_STATIC"
+     1>f:\кг\яковлеваео_лаба1,лаба2\laba2\текстурирование\source code textures and blending\laba2 - textures and blending\mainwindow.cpp(79): error C2065: w: необъявленный идентификатор
+     1>f:\кг\яковлеваео_лаба1,лаба2\laba2\текстурирование\source code textures and blending\laba2 - textures and blending\mainwindow.cpp(79): error C2143: синтаксическая ошибка: отсутствие ";" перед "return"
+         Создание кода...
+     1>Построение проекта "F:\КГ\ЯковлеваЕО_Лаба1,Лаба2\Laba2\текстурирование\Source Code Textures and Blending\Laba2 - Textures and Blending\Laba2 - Textures and Blending.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:07.48

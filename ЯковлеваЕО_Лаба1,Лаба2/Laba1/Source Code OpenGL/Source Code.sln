@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba 1 - 2D", "Console Glut\Console Glut.vcxproj", "{CA1038C2-D9A9-4DD6-8BBC-714B0FEBCDC7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba 2 - Morphing", "Morphing\Morphing.vcxproj", "{9D3474BB-88FC-8C15-FF8B-53BFC3767876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1038C2-D9A9-4DD6-8BBC-714B0FEBCDC7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA1038C2-D9A9-4DD6-8BBC-714B0FEBCDC7}.Debug|Win32.Build.0 = Debug|Win32
+		{CA1038C2-D9A9-4DD6-8BBC-714B0FEBCDC7}.Release|Win32.ActiveCfg = Release|Win32
+		{CA1038C2-D9A9-4DD6-8BBC-714B0FEBCDC7}.Release|Win32.Build.0 = Release|Win32
+		{9D3474BB-88FC-8C15-FF8B-53BFC3767876}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D3474BB-88FC-8C15-FF8B-53BFC3767876}.Debug|Win32.Build.0 = Debug|Win32
+		{9D3474BB-88FC-8C15-FF8B-53BFC3767876}.Release|Win32.ActiveCfg = Release|Win32
+		{9D3474BB-88FC-8C15-FF8B-53BFC3767876}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

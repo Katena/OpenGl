@@ -1,0 +1,45 @@
+﻿Построение начато 04.05.2012 22:05:09.
+     1>Проект "C:\Users\ASUS\Desktop\Laba3\Source Code Laba4\Laba3 - Lights and Surfaces\Laba3 - Lights and Surfaces.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "C:\Users\ASUS\Desktop\Laba3\Source Code Laba4\Release\".
+       InitializeBuildStatus:
+         Создание "Release\Laba3 - Lights and Surfaces.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Laba3 - Lights and Surfaces.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Laba3 - Lights and Surfaces.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\__OpenGL\GraphicObjects.cpp "Laba3 - Lights and Surfaces.cpp" MainWindow.cpp Lab3Objects.cpp Scene.cpp
+         GraphicObjects.cpp
+         Laba3 - Lights and Surfaces.cpp
+     1>c:\users\asus\desktop\laba3\source code laba4\laba3 - lights and surfaces\resource.h(6): warning C4005: IDC_STATIC: изменение макроопределения
+                 C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\atlres.h(222): см. предыдущее определение "IDC_STATIC"
+         MainWindow.cpp
+     1>c:\users\asus\desktop\laba3\source code laba4\laba3 - lights and surfaces\resource.h(6): warning C4005: IDC_STATIC: изменение макроопределения
+                 C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\atlres.h(222): см. предыдущее определение "IDC_STATIC"
+         Lab3Objects.cpp
+     1>c:\users\asus\desktop\laba3\source code laba4\laba3 - lights and surfaces\..\__OpenGL\Texture.h(15): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815): см. объявление "_wfopen"
+     1>Lab3Objects.cpp(158): warning C4305: аргумент: усечение из "double" к "GLfloat"
+         Scene.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\Laba3 - Lights and Surfaces.res" "Laba3 - Lights and Surfaces.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ASUS\Desktop\Laba3\Source Code Laba4\Release\Laba3 - Lights and Surfaces.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Laba3 - Lights and Surfaces.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ASUS\Desktop\Laba3\Source Code Laba4\Release\Laba3 - Lights and Surfaces.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ASUS\Desktop\Laba3\Source Code Laba4\Release\Laba3 - Lights and Surfaces.lib" /MACHINE:X86 "Release\Laba3 - Lights and Surfaces.res"
+         Release\GraphicObjects.obj
+         "Release\Laba3 - Lights and Surfaces.obj"
+         Release\MainWindow.obj
+         Release\Lab3Objects.obj
+         Release\Scene.obj
+         Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         Laba3 - Lights and Surfaces.vcxproj -> C:\Users\ASUS\Desktop\Laba3\Source Code Laba4\Release\Laba3 - Lights and Surfaces.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ASUS\Desktop\Laba3\Source Code Laba4\Release\Laba3 - Lights and Surfaces.exe;#1" /manifest "Release\Laba3 - Lights and Surfaces.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Release\Laba3 - Lights and Surfaces.unsuccessfulbuild" удаляется.
+         Обращение к "Release\Laba3 - Lights and Surfaces.lastbuildstate".
+     1>Построение проекта "C:\Users\ASUS\Desktop\Laba3\Source Code Laba4\Laba3 - Lights and Surfaces\Laba3 - Lights and Surfaces.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:06.47
